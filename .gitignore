@@ -1,2 +1,7 @@
-.venv
+.venv/
 .env
+features/
+*.npy
+audio_uz/
+.gradio/
+*keras
