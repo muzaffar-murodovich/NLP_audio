@@ -4,4 +4,5 @@ features/
 *.npy
 audio_uz/
 .gradio/
-*keras
+*.keras
+spectrograms/
